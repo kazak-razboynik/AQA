@@ -1,4 +1,4 @@
-package Practice_3;
+package practice_3;
 /**
  * Создайте класс Person с полями:
  * private String firstName

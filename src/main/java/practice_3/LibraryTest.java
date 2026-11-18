@@ -1,4 +1,4 @@
-package Practice_3;
+package practice_3;
 
 public class LibraryTest {
     public static void printBookInfo() {

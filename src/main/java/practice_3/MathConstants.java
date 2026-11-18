@@ -1,4 +1,4 @@
-package Practice_3;
+package practice_3;
 /**
  * Создайте класс MathConstants с полями:
  * final double PI = 3.14159

@@ -1,4 +1,4 @@
-package Practice_3;
+package practice_3;
 /**
  * Создайте класс Company с полями:
  * static String companyName — общее название для всех сотрудников

@@ -1,4 +1,4 @@
-package Practice_3;
+package practice_3;
 /**
  * Создайте класс University с полями:
  * static String universityName — общее имя университета

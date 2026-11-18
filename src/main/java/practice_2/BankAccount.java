@@ -12,7 +12,7 @@ public class BankAccount {
     int balance;
 
     // конструктор
-    BankAccount(String someOwner, int someBalance){
+    BankAccount(String someOwner, int someBalance) {
         this.owner = someOwner;
         this.balance = someBalance;
     }
